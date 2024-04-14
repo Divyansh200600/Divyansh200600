@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/divyansh200600/divyansh200600/output/main.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/divyansh200600/divyansh200600/output/snake.svg" alt="Snake animation" />
 
 ###
