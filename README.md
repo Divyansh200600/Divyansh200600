@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is DIVYANSH CHAUHAN 👨‍💻 and I'm a WEB DEV 🚀from INDIA 🏳️‍🌈</h2>
+# 💫 About Me:
+
+<h1 align="left">Hi 👋! My name is DIVYANSH CHAUHAN 👨‍💻 and I'm a WEB DEV 🚀from INDIA 🏳️‍🌈</h1>
 
 ###
 
