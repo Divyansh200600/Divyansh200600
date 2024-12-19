@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=divyansh200600&theme=merko&hide_border=false&include_all_commits=true&count_private=true" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="200" alt="GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh200600&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 10px;" height="200" alt="Top Languages" />
 </div>
